@@ -1,4 +1,4 @@
-## >whoami
+## tupler@Tup1er:~$ whoami
 - 👋 Hi, I’m @Tupler
 - 🌱 I’m currently learning [Reverse] [Pwn] [Windows Security]
 - 📫 How to reach me 
