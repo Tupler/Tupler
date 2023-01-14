@@ -1,6 +1,7 @@
 ## tupler@Tup1er:~$ whoami
 - 👋 Hi, I’m **tup1er**
 - 🌱 I’m currently learning **[Reverse]** **[Pwn]** **[Windows Security]**
+- TAG: *BugMaker* *script Boy* *KernelNoob want to be powerful*
 - 📫 How to reach me 
 - Telegram:@Tupler
 ### Language (max:🌟🌟🌟🌟🌟)
