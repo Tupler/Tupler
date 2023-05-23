@@ -1,6 +1,6 @@
 ## tupler@Tup1er:~$ whoami
 - 👋 Hi, I’m **tup1er**
-- 🌱 I’m currently learning **[Reverse]** **[Pwn]** **[Cyber Security]**
+- 🌱 I’m Focusing in **[Reverse]** **[AntiAntiVirus]** **[APT]**
 - TAG: **BugMaker** **ScriptKiddie** **KernelNoob**
 - 📫 How to reach me 
 - Telegram:@Tupler
