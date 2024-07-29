@@ -1,6 +1,6 @@
 ## tupler@Tup1er:~$ whoami
 - 👋 Hi, I’m **tup1er**
-- 🌱 I’m Focusing in **[Reverse]** **[AntiAntiVirus]** **[APT]**
+- 🌱 I’m Focusing in **[Reverse]** **[AntiAntiVirus]** **[GoLang]**
 - TAG: **BugMaker** **ScriptKiddie** **KernelNoob**
 - 📫 How to reach me 
 - email:tupler888@gmail.com
